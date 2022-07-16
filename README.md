@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou o Tgplay</h1>
 <h3 align="center">Apaixonado pelo mundo de desenvolvimento de sistemas</h3>
 
-- 🔭 Atualmente trabalho como desenvolvedor PHP **Sistema básico de Login**
+- 🔭 Atualmente estudando sobre **PHP**
 
 - 🌱 Atualmente estou aprendendo sobre Flutter **Flutter**
 

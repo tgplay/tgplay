@@ -17,6 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/tiago martins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tiago martins" height="30" width="40" /></a>
 <a href="https://instagram.com/tg_play" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tg_play" height="30" width="40" /></a>
+<a href="https://www.facebook.com/tiago.martinsdealmeida.7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tg_play" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
